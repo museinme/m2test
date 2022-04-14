@@ -1,8 +1,4 @@
 <?php
-/**
- * Copyright © Overdose Digital. All rights reserved.
- * See LICENSE_OVERDOSE.txt for license details.
- */
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
